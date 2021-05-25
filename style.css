@@ -1,0 +1,37 @@
+.bg1{
+    background: #0d6efd !important;
+}
+.d2{
+    max-width: 1200px;
+    background: #0dcaf0;
+    margin:30px auto;
+}
+.d2 img{
+    margin: 15px;
+}
+.b1{
+    margin-top: 60px;
+}
+.prg{
+    background: #0d6efd;
+}
+.z1{
+    width: 220px;
+}
+.p1 {
+	padding:60px 130px ;
+    
+}
+.carousel-control-prev {
+	background: transparent;
+	border: none;
+}
+.carousel-control-next{
+    background: transparent;
+	border: none;
+}
+.progress{
+ 
+    margin:20px 45px;
+    
+}
